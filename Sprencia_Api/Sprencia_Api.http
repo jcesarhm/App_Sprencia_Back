@@ -1,0 +1,6 @@
+@Sprencia_Api_HostAddress = http://localhost:5285
+
+GET {{Sprencia_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
